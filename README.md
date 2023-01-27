@@ -1,3 +1,3 @@
-# MVVM
+# MVVMD
 
-A description of this package.
+MVVM + Data Manager
